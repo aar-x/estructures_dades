@@ -1,10 +1,10 @@
 mesos = [['gener', 'febrer', 'març'],['abril', 'maig', 'juny'],['juliol', 'agost', 'setembre'],['octubre', 'novembre', 'desembre']]
 
-T1_M2 = mesos[0][1]
-print(T1_M2)
+mes2_tr1 = mesos[0][1]
+print(mes2_tr1)
 
-T1 = mesos[0]
-print(T1)
+mesos_tr1 = mesos[0]
+print(mesos_tr1)
 
-S_O = [mesos[2][2], mesos[3][0]]
-print(S_O)
+set_oct = [mesos[2][2], mesos[3][0]]
+print(set_oct)

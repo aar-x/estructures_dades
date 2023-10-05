@@ -6,7 +6,7 @@ print(nombres[:])
 
 print("Quants números? "+str(len(nombres)))
 print("Quants 3? "+str(nombres.count(3)))
-print("Quants 3 i 4? \n3: "+str(nombres.count(3))+"\n4: "+str(nombres.count(4)))
+print("Quants 3 i 4? \n3: "+str(nombres.count(3))+"vegades\n4: "+str(nombres.count(4))+" vegades")
 
 nombres.sort()
 print("Nombre mes gran? "+str(nombres[-1]))
